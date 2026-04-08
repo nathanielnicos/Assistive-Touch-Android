@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assistive Touch Android</string>
+    
+    <string name="accessibility_description">Layanan ini menampilkan menu Assistive Touch untuk navigasi sistem.</string>
+</resources>

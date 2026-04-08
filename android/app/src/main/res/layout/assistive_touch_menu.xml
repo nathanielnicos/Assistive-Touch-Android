@@ -1,0 +1,3 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/assistive_touch_menu"
+    android:background="@drawable/rounded_background" />
