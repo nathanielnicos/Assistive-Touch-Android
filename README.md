@@ -1,17 +1,25 @@
-# assistive_touch_android
+# Assistive Touch for Android
 
-A new Flutter project.
+## 📌 Project Overview
+This is a **personal independent project** born out of necessity. Due to hardware issues with my smartphone's physical buttons (Power and Volume), I developed a "Floating Ball" interface—similar to the iOS Assistive Touch—to ensure the device remains fully operational without relying on physical keys.
 
-## Getting Started
+## 🚀 Key Features
+The floating interface provides quick access to essential system functions:
+* **Volume Control:** Easy Volume Up and Volume Down adjustment.
+* **System Navigation:** One-tap access to Home, Recents, and Power options.
+* **Advanced Utilities:** Integrated Screenshot and Lock Screen triggers.
+* **Control Center:** Quick access to system settings.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack & Integration
+This project demonstrates the seamless integration of cross-platform and native technologies:
+* **Frontend:** Built with **Flutter (Dart)** for a smooth, responsive UI and floating overlay.
+* **Backend Logic:** Utilizes **Native Kotlin** (Method Channels) to communicate with the Android System API for hardware-level commands.
 
-A few resources to get you started if this is your first Flutter project:
+## 💡 Why This Project?
+I developed this to solve a personal pain point, but it also served as a deep dive into:
+1. **Accessibility Services:** Understanding how Android handles system-level overlays.
+2. **Platform Integration:** Bridging the gap between Flutter and Native Kotlin code.
+3. **UI/UX Design:** Creating a non-intrusive, floating interface that stays functional across different apps.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*Note: This project showcases my initiative to solve hardware limitations through software innovation.*
