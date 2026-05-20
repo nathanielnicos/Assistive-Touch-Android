@@ -1,4 +1,4 @@
-# Assistive Touch for Android
+# Assistive Touch Android
 
 ## 📌 Project Overview
 This is a **personal independent project** born out of necessity. Due to hardware issues with my smartphone's physical buttons (Power and Volume), I developed a "Floating Ball" interface—similar to the iOS Assistive Touch—to ensure the device remains fully operational without relying on physical keys.
